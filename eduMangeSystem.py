@@ -2,18 +2,11 @@
 '''
 Created on 2017年9月3日
 Running environment：win7.x86_64 eclipse python3
-@author: Lockey
-'''
-
-#!/usr/bin/env python
-#coding:utf-8
-'''
-file:eduSystem.py
-date:9/7/17 9:34 AM
-author:lockey
+author: Lockey
 email:lockey@123.com
 desc:
 '''
+
 import time
 import datetime
 
@@ -543,7 +536,7 @@ def systemManage(user,school):
         (C) : course Eroll
         (T) : teacher Eroll
         (S) : student Eroll
-        (VT) : view teachers 
+        (VT) : view teachers
         (VS) : view students
         (VC) : view courses
         (P) : change password
